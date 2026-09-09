@@ -8,7 +8,7 @@ Covers ChatGPT Images 2.5 (`gpt-image-2.5-flare`, `gpt-image-2.5-sunburst`) and 
 
 | File | What it holds |
 |---|---|
-| `SKILL.md` | the workflow: surface, intake, model choice, six-block prompt, references, edits, handover |
+| `SKILL.md` | the workflow: surface, intake, model choice, seven-block prompt, references, edits, handover |
 | `references/official-spec.md` | hard numbers: model IDs, size rules, quality levels, input limits, pricing, endpoints |
 | `references/prompt-anatomy.md` | text rendering, style transfer, transparency, five failure modes and their fixes |
 | `references/recipes.md` | seven skeletons: poster, article cover, product shot, portrait, infographic, logo, UI mockup |

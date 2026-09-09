@@ -1,6 +1,6 @@
 ---
 name: gpt-images
-description: "Turns a plain-language brief into a production-ready prompt for OpenAI GPT Image models (ChatGPT Images 2.5, gpt-image-2.5-flare, gpt-image-2.5-sunburst, gpt-image-2). Returns a six-block prompt, a settings block for the chosen surface, and three concrete levers for the next iteration. Covers text inside the image, reference binding, edits that do not drift, transparent backgrounds, and the hard API limits on size, quality and input images. Triggers: 'write an image prompt', 'gpt image prompt', 'chatgpt images 2.5', 'make me a poster', 'product shot prompt', 'article cover image', 'edit this image without changing X', 'transparent background logo', 'why does my text come out garbled', 'my edits keep drifting'. Not for video models (they use different syntax) and not for typography that must be pixel-exact."
+description: "Turns a plain-language brief into a production-ready prompt for OpenAI GPT Image models (ChatGPT Images 2.5, gpt-image-2.5-flare, gpt-image-2.5-sunburst, gpt-image-2). Returns a seven-block prompt, a settings block for the chosen surface, and three concrete levers for the next iteration. Covers text inside the image, reference binding, edits that do not drift, transparent backgrounds, and the hard API limits on size, quality and input images. Triggers: 'write an image prompt', 'gpt image prompt', 'chatgpt images 2.5', 'make me a poster', 'product shot prompt', 'article cover image', 'edit this image without changing X', 'transparent background logo', 'why does my text come out garbled', 'my edits keep drifting'. Not for video models (they use different syntax) and not for typography that must be pixel-exact."
 license: MIT
 ---
 
@@ -41,7 +41,7 @@ Missing input is not a reason to stop. Fill it in, mark it `[ASSUMED]`, and keep
 - **`quality`**: `low` while hunting for a direction, `high` for anything containing text, `xhigh` or `max` for dense typography and information panels (2.5 only).
 - Above `2560x1440` behavior gets variable. For 4K deliverables, generate at 2K and upscale with a dedicated tool.
 
-## Step 3: prompt anatomy, six blocks
+## Step 3: prompt anatomy, seven blocks
 
 Write in English. Copy that must appear inside the image stays verbatim in quotes, in whatever language it belongs to. Short labeled blocks, not one long paragraph.
 
